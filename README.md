@@ -1,2 +1,2 @@
 # LocationTool
-Unity editor plugin to define and create locations in game world
+Unity editor plugin to create and define locations in game world
