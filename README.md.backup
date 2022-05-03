@@ -5,7 +5,7 @@ All locations are stored globally, during run-time the AI characters can poll fo
 
 Location tool is a programmer centric tool and requires a fair bit of programming knowledge to use.
 
-![Image](images/01.png)
+![Image](images/01.gif)
 
 ## Setting up a location
 1. Download this repository and import into unity. 
